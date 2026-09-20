@@ -1,0 +1,11 @@
+NEGOTIATION DRAFT (not sent)
+Spec BOX-24 sku=BOX-24 qty=2000 zone=A
+Vendor V-05 National Carton
+List unit $1.6800  floor $1.3000
+Reservation $1.5120 (10% off list or walk)
+Max rounds: 3
+Round 1: counter at $1.5120
+Round 2: hold $1.5120
+Round 3: $1.5120 or walk
+Hold reservation $1.5120 for 3 rounds, then walk. Do not go below floor.
+Do not send off-box. Do not email.

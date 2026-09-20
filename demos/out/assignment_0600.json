@@ -1,0 +1,118 @@
+{
+  "wave": "06:00",
+  "actuate": false,
+  "dwell_cap_min": 90,
+  "total_dwell_min": 470,
+  "assignments": [
+    {
+      "appointment_id": "A-01",
+      "door_id": "D-01",
+      "type": "dry",
+      "arrive": "06:00",
+      "start": "06:00",
+      "end": "06:45",
+      "unload_min": 45,
+      "wait_min": 0,
+      "dwell_min": 45
+    },
+    {
+      "appointment_id": "A-02",
+      "door_id": "D-02",
+      "type": "dry",
+      "arrive": "06:00",
+      "start": "06:00",
+      "end": "06:40",
+      "unload_min": 40,
+      "wait_min": 0,
+      "dwell_min": 40
+    },
+    {
+      "appointment_id": "A-03",
+      "door_id": "D-05",
+      "type": "reefer",
+      "arrive": "06:00",
+      "start": "06:00",
+      "end": "06:55",
+      "unload_min": 55,
+      "wait_min": 0,
+      "dwell_min": 55
+    },
+    {
+      "appointment_id": "A-04",
+      "door_id": "D-03",
+      "type": "dry",
+      "arrive": "06:15",
+      "start": "06:15",
+      "end": "06:50",
+      "unload_min": 35,
+      "wait_min": 0,
+      "dwell_min": 35
+    },
+    {
+      "appointment_id": "A-05",
+      "door_id": "D-04",
+      "type": "dry",
+      "arrive": "06:15",
+      "start": "06:15",
+      "end": "07:05",
+      "unload_min": 50,
+      "wait_min": 0,
+      "dwell_min": 50
+    },
+    {
+      "appointment_id": "A-06",
+      "door_id": "D-06",
+      "type": "reefer",
+      "arrive": "06:20",
+      "start": "06:20",
+      "end": "07:20",
+      "unload_min": 60,
+      "wait_min": 0,
+      "dwell_min": 60
+    },
+    {
+      "appointment_id": "A-07",
+      "door_id": "D-09",
+      "type": "flatbed",
+      "arrive": "06:30",
+      "start": "06:30",
+      "end": "07:10",
+      "unload_min": 40,
+      "wait_min": 0,
+      "dwell_min": 40
+    },
+    {
+      "appointment_id": "A-08",
+      "door_id": "D-07",
+      "type": "dry",
+      "arrive": "06:30",
+      "start": "06:30",
+      "end": "07:15",
+      "unload_min": 45,
+      "wait_min": 0,
+      "dwell_min": 45
+    },
+    {
+      "appointment_id": "A-09",
+      "door_id": "D-08",
+      "type": "dry",
+      "arrive": "06:45",
+      "start": "06:45",
+      "end": "07:15",
+      "unload_min": 30,
+      "wait_min": 0,
+      "dwell_min": 30
+    },
+    {
+      "appointment_id": "A-10",
+      "door_id": "D-12",
+      "type": "reefer",
+      "arrive": "07:00",
+      "start": "07:00",
+      "end": "08:10",
+      "unload_min": 70,
+      "wait_min": 0,
+      "dwell_min": 70
+    }
+  ]
+}

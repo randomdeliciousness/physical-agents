@@ -1,0 +1,12 @@
+[
+  {"id": "A-01", "type": "dry", "arrive": "06:00", "unload_min": 45},
+  {"id": "A-02", "type": "dry", "arrive": "06:00", "unload_min": 40},
+  {"id": "A-03", "type": "reefer", "arrive": "06:00", "unload_min": 55},
+  {"id": "A-04", "type": "dry", "arrive": "06:15", "unload_min": 35},
+  {"id": "A-05", "type": "dry", "arrive": "06:15", "unload_min": 50},
+  {"id": "A-06", "type": "reefer", "arrive": "06:20", "unload_min": 60},
+  {"id": "A-07", "type": "flatbed", "arrive": "06:30", "unload_min": 40},
+  {"id": "A-08", "type": "dry", "arrive": "06:30", "unload_min": 45},
+  {"id": "A-09", "type": "dry", "arrive": "06:45", "unload_min": 30},
+  {"id": "A-10", "type": "reefer", "arrive": "07:00", "unload_min": 70}
+]

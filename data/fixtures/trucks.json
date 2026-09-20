@@ -1,0 +1,22 @@
+[
+  {"id": "T-01", "equip": "dry53", "lat": 34.06, "lon": -117.30, "city": "Fontana, CA", "hos_h": 8.5, "mpg": 6.2, "kwh_per_mi": null, "fuel": "diesel", "rate_driver_per_h": 38},
+  {"id": "T-02", "equip": "dry53", "lat": 33.94, "lon": -118.13, "city": "Commerce, CA", "hos_h": 11.0, "mpg": 6.4, "kwh_per_mi": null, "fuel": "diesel", "rate_driver_per_h": 38},
+  {"id": "T-03", "equip": "reefer53", "lat": 34.07, "lon": -117.50, "city": "Ontario, CA", "hos_h": 6.0, "mpg": 5.8, "kwh_per_mi": null, "fuel": "diesel", "rate_driver_per_h": 40},
+  {"id": "T-04", "equip": "dry53", "lat": 35.37, "lon": -119.02, "city": "Bakersfield, CA", "hos_h": 9.0, "mpg": 6.1, "kwh_per_mi": null, "fuel": "diesel", "rate_driver_per_h": 36},
+  {"id": "T-05", "equip": "dry53", "lat": 36.32, "lon": -119.30, "city": "Visalia, CA", "hos_h": 10.0, "mpg": null, "kwh_per_mi": 2.1, "fuel": "battery", "rate_driver_per_h": 36},
+  {"id": "T-06", "equip": "flatbed", "lat": 33.75, "lon": -116.97, "city": "San Jacinto, CA", "hos_h": 7.5, "mpg": 5.9, "kwh_per_mi": null, "fuel": "diesel", "rate_driver_per_h": 39},
+  {"id": "T-07", "equip": "dry53", "lat": 34.05, "lon": -117.22, "city": "Riverside, CA", "hos_h": 8.0, "mpg": 6.0, "kwh_per_mi": null, "fuel": "diesel", "rate_driver_per_h": 38},
+  {"id": "T-08", "equip": "dry53", "lat": 32.78, "lon": -96.80, "city": "Dallas, TX", "hos_h": 11.0, "mpg": 6.3, "kwh_per_mi": null, "fuel": "diesel", "rate_driver_per_h": 34},
+  {"id": "T-09", "equip": "dry53", "lat": 35.22, "lon": -101.83, "city": "Amarillo, TX", "hos_h": 9.5, "mpg": 6.2, "kwh_per_mi": null, "fuel": "diesel", "rate_driver_per_h": 35},
+  {"id": "T-10", "equip": "reefer53", "lat": 33.45, "lon": -112.07, "city": "Phoenix, AZ", "hos_h": 8.0, "mpg": 5.7, "kwh_per_mi": null, "fuel": "diesel", "rate_driver_per_h": 37},
+  {"id": "T-11", "equip": "dry53", "lat": 36.17, "lon": -115.14, "city": "Las Vegas, NV", "hos_h": 10.5, "mpg": 6.0, "kwh_per_mi": null, "fuel": "diesel", "rate_driver_per_h": 37},
+  {"id": "T-12", "equip": "dry53", "lat": 39.74, "lon": -104.99, "city": "Denver, CO", "hos_h": 7.0, "mpg": 5.9, "kwh_per_mi": null, "fuel": "diesel", "rate_driver_per_h": 36},
+  {"id": "T-13", "equip": "dry53", "lat": 35.11, "lon": -106.61, "city": "Albuquerque, NM", "hos_h": 9.0, "mpg": 6.1, "kwh_per_mi": null, "fuel": "diesel", "rate_driver_per_h": 35},
+  {"id": "T-14", "equip": "dry53", "lat": 31.76, "lon": -106.49, "city": "El Paso, TX", "hos_h": 8.5, "mpg": 6.2, "kwh_per_mi": null, "fuel": "diesel", "rate_driver_per_h": 34},
+  {"id": "T-15", "equip": "dry53", "lat": 29.76, "lon": -95.37, "city": "Houston, TX", "hos_h": 11.0, "mpg": 6.4, "kwh_per_mi": null, "fuel": "diesel", "rate_driver_per_h": 34},
+  {"id": "T-16", "equip": "reefer53", "lat": 34.05, "lon": -118.24, "city": "Los Angeles, CA", "hos_h": 5.5, "mpg": 5.8, "kwh_per_mi": null, "fuel": "diesel", "rate_driver_per_h": 40},
+  {"id": "T-17", "equip": "dry53", "lat": 37.36, "lon": -121.92, "city": "San Jose, CA", "hos_h": 9.0, "mpg": null, "kwh_per_mi": 2.0, "fuel": "battery", "rate_driver_per_h": 40},
+  {"id": "T-18", "equip": "dry53", "lat": 38.58, "lon": -121.49, "city": "Sacramento, CA", "hos_h": 10.0, "mpg": 6.2, "kwh_per_mi": null, "fuel": "diesel", "rate_driver_per_h": 37},
+  {"id": "T-19", "equip": "flatbed", "lat": 33.77, "lon": -118.19, "city": "Long Beach, CA", "hos_h": 6.5, "mpg": 5.8, "kwh_per_mi": null, "fuel": "diesel", "rate_driver_per_h": 39},
+  {"id": "T-20", "equip": "dry53", "lat": 34.73, "lon": -112.18, "city": "Prescott Valley, AZ", "hos_h": 8.0, "mpg": 6.0, "kwh_per_mi": null, "fuel": "diesel", "rate_driver_per_h": 36}
+]

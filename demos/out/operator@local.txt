@@ -1,0 +1,4 @@
+DOCK DRAFT (not sent)
+To: operator@local
+Appointment A-03 dwell 125 min exceeds cap 90 min (enter 2026-09-17T06:05:00-07:00 exit 2026-09-17T08:10:00-07:00).
+Driver/dock: check stall at assigned door. Do not send off-box.

@@ -1,0 +1,5 @@
+date,field_id,forecast_rain_in,scenario
+2026-09-13,F-01,0.55,wet
+2026-09-14,F-01,0.00,dry
+2026-09-15,F-01,0.00,dry
+2026-09-16,F-01,0.10,dry

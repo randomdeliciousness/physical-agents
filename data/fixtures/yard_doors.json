@@ -1,0 +1,14 @@
+[
+  {"id": "D-01", "type": "dry", "open": "05:00", "close": "18:00"},
+  {"id": "D-02", "type": "dry", "open": "05:00", "close": "18:00"},
+  {"id": "D-03", "type": "dry", "open": "05:00", "close": "18:00"},
+  {"id": "D-04", "type": "dry", "open": "05:00", "close": "18:00"},
+  {"id": "D-05", "type": "reefer", "open": "04:00", "close": "16:00"},
+  {"id": "D-06", "type": "reefer", "open": "04:00", "close": "16:00"},
+  {"id": "D-07", "type": "dry", "open": "06:00", "close": "20:00"},
+  {"id": "D-08", "type": "dry", "open": "06:00", "close": "20:00"},
+  {"id": "D-09", "type": "flatbed", "open": "06:00", "close": "17:00"},
+  {"id": "D-10", "type": "dry", "open": "05:00", "close": "18:00"},
+  {"id": "D-11", "type": "dry", "open": "05:00", "close": "18:00"},
+  {"id": "D-12", "type": "reefer", "open": "04:00", "close": "16:00"}
+]

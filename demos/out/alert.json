@@ -1,0 +1,31 @@
+{
+  "aoi": "Santa Clara County demo",
+  "day": "2026-09-08",
+  "destination": "operator@local",
+  "rules_fired": [
+    "hotspot_within_km",
+    "rh_pct_lt",
+    "wind_mph_gt",
+    "precip_next_24h_in_lt"
+  ],
+  "wind_mph": {
+    "value": 31.0,
+    "source": "fixture-hot"
+  },
+  "rh_pct": {
+    "value": 11.0,
+    "source": "fixture-hot"
+  },
+  "precip_next_24h_in": {
+    "value": 0.0,
+    "source": "fixture-hot"
+  },
+  "hotspots": [
+    {
+      "id": "hs-1",
+      "km": 14.0,
+      "source": "fixture-hotspot"
+    }
+  ],
+  "disclaimer": "Fusion of public or fixture feeds. Not an official forecast. Do not page agencies."
+}

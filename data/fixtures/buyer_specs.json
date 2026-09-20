@@ -1,0 +1,17 @@
+[
+  {"id": "BOX-24", "sku": "BOX-24", "qty": 2000, "zone": "A", "need_by_days": 10},
+  {"id": "BOX-24-B", "sku": "BOX-24", "qty": 2000, "zone": "B", "need_by_days": 14},
+  {"id": "BOX-24-FAST", "sku": "BOX-24", "qty": 500, "zone": "A", "need_by_days": 3},
+  {"id": "PAL-1", "sku": "PALLET-CHEP", "qty": 80, "zone": "A", "need_by_days": 7},
+  {"id": "PAL-2", "sku": "PALLET-CHEP", "qty": 80, "zone": "B", "need_by_days": 7},
+  {"id": "WRAP-1", "sku": "WRAP-80", "qty": 24, "zone": "A", "need_by_days": 6},
+  {"id": "WRAP-2", "sku": "WRAP-80", "qty": 24, "zone": "B", "need_by_days": 6},
+  {"id": "WRAP-FAST", "sku": "WRAP-80", "qty": 8, "zone": "A", "need_by_days": 2},
+  {"id": "DRIP-1", "sku": "DRIP-16MM", "qty": 8000, "zone": "A", "need_by_days": 8},
+  {"id": "DRIP-2", "sku": "DRIP-16MM", "qty": 8000, "zone": "B", "need_by_days": 8},
+  {"id": "BOX-24-C", "sku": "BOX-24", "qty": 1500, "zone": "A", "need_by_days": 12},
+  {"id": "BOX-24-D", "sku": "BOX-24", "qty": 3000, "zone": "B", "need_by_days": 20},
+  {"id": "PAL-3", "sku": "PALLET-CHEP", "qty": 20, "zone": "A", "need_by_days": 4},
+  {"id": "WRAP-3", "sku": "WRAP-80", "qty": 40, "zone": "B", "need_by_days": 15},
+  {"id": "DRIP-3", "sku": "DRIP-16MM", "qty": 5000, "zone": "A", "need_by_days": 4}
+]

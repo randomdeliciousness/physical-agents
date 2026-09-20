@@ -1,0 +1,14 @@
+aoi:
+  name: Santa Clara County demo
+  lat: 37.22
+  lon: -121.75
+alert_all_of:
+  - hotspot_within_km: 25
+  - rh_pct_lt: 15
+  - wind_mph_gt: 25
+  - precip_next_24h_in_lt: 0.05
+sources_required:
+  - nws_or_fixture
+  - hotspot_or_fixture
+copy:
+  disclaimer: Fusion of public or fixture feeds. Not an official forecast. Do not page agencies.

@@ -1,0 +1,22 @@
+{
+  "calm": {
+    "day": "2026-04-12",
+    "wind_mph": 8,
+    "rh_pct": 42,
+    "precip_next_24h_in": 0.12,
+    "hotspots": [],
+    "incidents": [],
+    "source": "fixture-calm"
+  },
+  "hot": {
+    "day": "2026-09-08",
+    "wind_mph": 31,
+    "rh_pct": 11,
+    "precip_next_24h_in": 0.0,
+    "hotspots": [
+      {"id": "hs-1", "lat": 37.18, "lon": -121.62, "km": 14.0, "source": "fixture-hotspot"}
+    ],
+    "incidents": [],
+    "source": "fixture-hot"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "field_id": "F-01",
+  "as_of": "2026-09-13",
+  "tonight": "skip",
+  "actuate": false,
+  "skip_inches": 0.25,
+  "nights": [
+    {
+      "date": "2026-09-13",
+      "action": "skip",
+      "deficit_in": 0.94,
+      "et_in": 0.25,
+      "forecast_rain_in": 0.55,
+      "threshold": 0.18,
+      "moisture_frac": 0.17,
+      "reason": "forecast rain 0.55 >= skip 0.25"
+    },
+    {
+      "date": "2026-09-14",
+      "action": "run",
+      "deficit_in": 0.64,
+      "et_in": 0.25,
+      "forecast_rain_in": 0.0,
+      "threshold": 0.18,
+      "moisture_frac": null,
+      "reason": "deficit 0.64 > threshold 0.18 and forecast rain 0.00 < skip 0.25"
+    },
+    {
+      "date": "2026-09-15",
+      "action": "run",
+      "deficit_in": 0.25,
+      "et_in": 0.25,
+      "forecast_rain_in": 0.0,
+      "threshold": 0.18,
+      "moisture_frac": null,
+      "reason": "deficit 0.25 > threshold 0.18 and forecast rain 0.00 < skip 0.25"
+    }
+  ]
+}
